@@ -55,37 +55,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1B2735&height=90&section=header&text=GitHub%20Stats&fontSize=30&fontColor=39D0FF&fontAlignY=65" width="100%" alt="github stats" />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anicrate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D0FF&icon_color=39D0FF&text_color=C9D1D9&ring_color=39D0FF" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anicrate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D0FF&text_color=C9D1D9" alt="Top Languages" width="42%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=anicrate&theme=tokyonight&hide_border=true&background=0D1117&ring=39D0FF&fire=39D0FF&currStreakLabel=39D0FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" width="70%" />
-
-<sub>✨ these cards animate on load — numbers fade & scale in when you open the profile</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1B2735&height=90&section=header&text=Trophies&fontSize=30&fontColor=39D0FF&fontAlignY=65" width="100%" alt="trophies" />
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anicrate&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" alt="trophies" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1B2735&height=90&section=header&text=Contribution%20Snake&fontSize=30&fontColor=39D0FF&fontAlignY=65" width="100%" alt="contribution snake" />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anicrate/anicrate/output/github-contribution-grid-snake-dark.svg" alt="snake eating contribution graph" width="100%" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1B2735&height=90&section=header&text=Let's%20Connect&fontSize=30&fontColor=39D0FF&fontAlignY=65" width="100%" alt="connect" />
 
 <div align="center">
